@@ -1,10 +1,12 @@
-# presentacion-
+# *Presentacion*
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+* Me llamo Bruno Rodriguez
+    * Tengo 19 años
+    * Vivo en Castelar
 
-Ya saben usar git!
+---
+
+### Que me gusta
+
+- Bad Bunny
+- El gimnasio
