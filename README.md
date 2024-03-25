@@ -9,4 +9,9 @@
 ### Que me gusta
 
 - Bad Bunny
+    - El mejor tema es Efecto
 - El gimnasio
+    - 105kg press plano
+- Leer
+    - Estoy leyendo la Divina Comedia
+
