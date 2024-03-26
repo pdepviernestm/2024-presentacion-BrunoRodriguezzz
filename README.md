@@ -22,3 +22,5 @@
 ### *Foto en la balberia*
 
 <img src = "https://avatars.githubusercontent.com/u/128913461?s=400&u=b98a8045123ba32636b8e796eb29c4dc2ac95f9d&v=4">
+
+Si alguno quiere ir con mi [barbero](https://www.instagram.com/_starbarber/) de confianza, les dejo el link.
