@@ -16,6 +16,7 @@
     - 105kg press plano
 - Leer
     - Estoy leyendo la Divina Comedia
+       - Proximo a ver que onda "Elogio de la Locura" 
 
 ---
 
